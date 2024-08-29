@@ -1,6 +1,5 @@
 # entropyRSS2024
 Entropy of Ordinal Inputs in A Social Data Science Context: Ontic, and Statistical Options
-A Tutorial for Statistics Users about India Labour-Force Participation Rates, Focused on Methods for Social Researchers
 
   * * * * * HOW TO GET THE FILES *  
 First click the green CODE button. Now choose the 'Download ZIP' button. You obtain all the documents in one zip file. You then 'extract' this using your unzip software, such as 7ZIP freeware or Win-ZIP. Queries/difficulties? Contact wendy.olsen@manchester.ac.uk .
